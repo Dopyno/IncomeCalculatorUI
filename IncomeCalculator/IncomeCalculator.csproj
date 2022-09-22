@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="CopyOfCalculatorProgram.cs" />
     <Compile Include="JuniorEmployee.cs" />
-    <Compile Include="loginService.cs" />
     <Compile Include="Messages.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RequestTimeSheetUser.cs" />

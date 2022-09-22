@@ -52,7 +52,7 @@ namespace IncomeCalculator
             do
             {
                 var time = new TimeSheet();
-                Messages.RequestInfoUser("Enter company that you work for: ");
+                Messages.RequestInfoUser("Enter company that you work for [Apple / Samsung]: ");
                 string companyName = Console.ReadLine();
                 Messages.RequestInfoUser("How many hours do you work for them: ");
                 int hoursWork = Convert.ToInt32(Console.ReadLine());
